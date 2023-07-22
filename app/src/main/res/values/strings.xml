@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="StringTitle">해리포트</string>
+    <string name="StartMessage">시작하기</string>
+</resources>
